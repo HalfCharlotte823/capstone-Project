@@ -9,7 +9,7 @@ const moviesData = [
     },
     {
         id: 2,
-        poster: "../images/JujutsuKaisen0.png",
+        poster: "images/JujutsuKaisen0.png",
         name: "Jujutsu Kaisen 0",
         releaseDate: "March 18, 2022",
         rating: "4.8/5",
