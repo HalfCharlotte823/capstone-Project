@@ -9,7 +9,7 @@ const moviesData = [
     },
     {
         id: 2,
-        poster: "images/JujutsuKaisen0.png",
+        poster: "../images/JujutsuKaisen0.png",
         name: "Jujutsu Kaisen 0",
         releaseDate: "March 18, 2022",
         rating: "4.8/5",
@@ -154,7 +154,7 @@ const moviesData = [
     {
         id: 20,
         poster: "images/alvinchip.png",
-        name: "Alvin & Chipmunks: Chipwrecked",
+        name: "ATC: Chipwrecked",
         releaseDate: "December 16, 2011",
         rating: "4.3/5",
         link: "https://en.wikipedia.org/wiki/Alvin_and_the_Chipmunks:_Chipwrecked",
@@ -186,7 +186,7 @@ const moviesData = [
     {
         id: 23,
         poster: "images/kidspy4.png",
-        name: "Spy Kids: All the Time in the World",
+        name: "Spy Kids 4: ATIW",
         releaseDate: "August 19, 2011",
         rating: "3.4/5",
         link: "https://en.wikipedia.org/wiki/Spy_Kids:_All_the_Time_in_the_World",
@@ -206,5 +206,29 @@ const moviesData = [
         releaseDate: "March 22, 2013",
         rating: "4.6/5",
         link: "https://en.wikipedia.org/wiki/The_Croods",
+    },
+    {
+        id: 26,
+        poster: "images/lorax.png",
+        name: "The Lorax",
+        releaseDate: "March 2, 2012",
+        rating: "3.2/5",
+        link: "https://en.wikipedia.org/wiki/The_Lorax_(film)",
+    },
+    {
+        id: 27,
+        poster: "images/rio.png",
+        name: "Rio",
+        releaseDate: "April 15, 2011",
+        rating: "4.7/5",
+        link: "https://en.wikipedia.org/wiki/Rio_(2011_film)",
+    },
+    {
+        id: 28,
+        poster: "images/dragontamer.png",
+        name: "How to Train your Dragon",
+        releaseDate: "June 13, 2025",
+        rating: "None yet!",
+        link: "https://en.wikipedia.org/wiki/How_to_Train_Your_Dragon_(2025_film)",
     },
 ];
